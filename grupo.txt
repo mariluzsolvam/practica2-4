@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola soy Lucas
+=======
+Hola soy MIguel
+>>>>>>> a22e9046b736df82d5cd7aad5fb8fe9c9ca08ccd
